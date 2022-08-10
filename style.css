@@ -1,28 +1,42 @@
 header{
-    height: 200px;
-    background-color: palevioletred;
+    height: 100px;
+    background-color: rgb(240, 151, 180);
 }
 
 main{
-    height: auto;
-    background-color: rgb(185, 80, 97);
+    height: 500px;
+    background-color: white;
+}
+main h3{
+    margin-right: 2%;
+    background-color: rgb(73, 63, 63);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
+
 main section{
-    height: 50px;
-    background-color: rgb(165, 5, 58);
+    height: auto;
+    background-color: rgb(235, 74, 127);
+}
+section img{
+    height: 190px;
 }
 
 aside{
-    height: 200px;
-    background-color: rgb(194, 52, 99);
+    height: 650px;
+    background-color: rgb(177, 74, 108);
 }
-aside section{
-    height: 50px;
-    background-color: rgb(46, 153, 153);
+aside input{
+
+}
+aside ul{
+    background-color: white;
+    height: 140px;
+
 }
 
 footer{
-    height: auto;
+    height: 100px;
     background-color: rgb(240, 192, 200);
 }
