@@ -1,32 +1,37 @@
 header{
-    height: 100px;
-    background-color: rgb(240, 151, 180);
+    height: 60px;
+    background-color: 	#473C8B;;
 }
 
 main{
-    height: 700px;
-    background-color:#FF69B4;
+    height: auto;
+    background-color: 	#473C8B;
 }
 main h3{
-    margin-right: 2%;
-    background-color: rgb(73, 63, 63);
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
 }
 
 main section{
     height: auto;
-    background-color: 	#FF69B4;
+    background-color: 	#473C8B;
     padding-bottom: 10px;
 }
-.headermorango{
-    height: 187px;
-
+.astro2{
+    height: 190px;
+    margin-top: 8%;
+    margin-left: 5%;
+    border-radius: 2%;
+    width: 93%;
+    
 }
-
+header img{
+    border-radius: 2%;
+}
 aside{
-    height: 700px;
-    background-color: 	#FF1493;
+    height: 734px;
+    background-color: #FF7F00;
 }
 aside section{
     height: auto;
@@ -34,23 +39,22 @@ aside section{
 
 aside ul{
     background-color: white;
-    height: 140px;
+    height: 120px;
     color: rgb(231, 76, 102);
 }
 aside h3{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(73, 63, 63);
-    font-size: 145%;
-    text-align: center;
+    background-color: 	#473C8B;
+    font-size: 130%;
  
 }
 .card-img-top{
-    height: 166px;
+    height: 182px;
 }
 footer{
     height: auto;
-    background-color: rgb(240, 192, 200);
+    background-color: black;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(83, 83, 83);
     
